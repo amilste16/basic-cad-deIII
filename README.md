@@ -42,12 +42,19 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
+The dimensions are 120 x 120 x 8. there are 5 holes, one in each corner and one in the center. The corner holes are 10 mm, 20 mm from each edge. The center hole is 25 mm and fixed to the origin.
 
 ### Evidence
-
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/15bc8dc7b05fb61458cd80d5/w/4e8d4a756d5a2f986cc609e7/e/103b4e6ed8e4690727cbac73)
 ### Image
 
+<img src="https://github.com/amilste16/basic-cad-deIII/blob/master/images/Screenshot%202020-09-30%20at%201.14.34%20PM.png" alt="The Base" width="300">\
+
 ### Reflection
+
+This is my second part, I really flew through it.
+* variables
+* linear patterns (no shortcut)
 
 ---
 
@@ -60,8 +67,13 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
+<img src="https://github.com/amilste16/basic-cad-deIII/blob/master/images/Screenshot%202020-09-30%20at%201.14.26%20PM.png" alt="The Base" width="300">
+
 ### Reflection
 
+This was my third part and it was a little more complicated.
+* chamfer
+* fillet
 ---
 
 
@@ -72,6 +84,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 
 ### Image
+
+<img src="https://github.com/amilste16/basic-cad-deIII/blob/master/images/Screenshot%202020-09-30%20at%201.14.18%20PM.png" alt="The Base" width="300">
 
 ### Reflection
 
@@ -98,6 +112,8 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Evidence
 
 ### Image
+
+<img src="https://github.com/amilste16/basic-cad-deIII/blob/master/images/Screenshot%202020-09-30%20at%201.14.05%20PM.png" alt="The Base" width="300">
 
 ### Reflection
 
