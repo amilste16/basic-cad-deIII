@@ -71,7 +71,7 @@ This is my second part, I really flew through it.
 
 ### Reflection
 
-This was my third part and it was a little more complicated.
+This was my third part and it was a little more complicated. The circular base has a diameter of 80 mm and a width of 8 mm. the prongs are 40 x 5 x 75 and are 15 mm from the origin. The circular tube is made of concentric rings (15 mm and 20 mm) and is 60 mm tall.
 * chamfer
 * fillet
 ---
