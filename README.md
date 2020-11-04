@@ -88,6 +88,7 @@ This was my third part and it was a little more complicated. The circular base h
 <img src="https://github.com/amilste16/basic-cad-deIII/blob/master/images/Screenshot%202020-09-30%20at%201.14.18%20PM.png" alt="The Base" width="300">
 
 ### Reflection
+This one was really easy, but it did remind me ofhow to use revolve extrude and chamfers. The dimensions were
 
 ---
 
@@ -101,7 +102,7 @@ This was my third part and it was a little more complicated. The circular base h
 ### Image
 
 ### Reflection
-
+This one was a little more complicated, we did different sketches on different planes.
 ---
 
 
@@ -116,5 +117,5 @@ This was my third part and it was a little more complicated. The circular base h
 <img src="https://github.com/amilste16/basic-cad-deIII/blob/master/images/Screenshot%202020-09-30%20at%201.14.05%20PM.png" alt="The Base" width="300">
 
 ### Reflection
-
+The axel was a tube mm long with a diameter of mm. The collar was attatched to te end and was mm long with a diameter of mm. The bearing had a diameter of mm and was mm thick.
 ---
